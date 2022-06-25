@@ -296,6 +296,11 @@ a {
     margin-right: 30px;
 }
 
+.card-img {
+    margin-right: 30px;
+}
+
+
 .img-list:last-child {
     margin-right: 0px;
 }
@@ -472,6 +477,7 @@ hr {
 .img-box {
     display: flex;
     flex-wrap: wrap;
+    margin: 30px;
 }
 
 .img-box-list {

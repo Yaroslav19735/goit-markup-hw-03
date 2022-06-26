@@ -297,8 +297,10 @@ a {
 }
 
 .card-img {
-    margin-right: 30px;
+    margin: 15px;
 }
+
+
 
 
 .img-list:last-child {
@@ -429,6 +431,7 @@ hr {
     padding-right: 24px;
     padding-bottom: 20px;
     padding-left: 24px;
+    border: 1px solid #EEEEEE;
 }
 
 .portfolio-title {
@@ -482,7 +485,7 @@ hr {
 
 .img-box-list {
     margin: -15px;
-    margin-top: -30px;
+    
 }
 
 .list card-img {
